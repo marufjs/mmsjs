@@ -1,6 +1,6 @@
 {
   "name": "mmsjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JavaScript basic programs",
   "main": "index.js",
   "scripts": {
