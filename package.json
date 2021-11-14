@@ -1,0 +1,27 @@
+{
+  "name": "mmsjs",
+  "version": "1.0.0",
+  "description": "JavaScript basic programs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marufjs/mmsjs.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "Programming",
+    "mmsjs"
+  ],
+  "author": "Md. Maruf Sarker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marufjs/mmsjs/issues"
+  },
+  "homepage": "https://github.com/marufjs/mmsjs#readme",
+  "dependencies": {}
+}
